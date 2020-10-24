@@ -13,8 +13,7 @@ INTRODUCTION
 
 This Recreate Block From Config module recreates the block content (or any content that is in the config/install directory)
 when installed or when 'drush cr' is run.
-This is a modification of https://www.drupal.org/project/recreate_block_content. Thanks to Joao Sausen for the
-inspiration.
+This is a modification of https://www.drupal.org/project/recreate_block_content. Thanks to Joao Sausen for the inspiration.
 
 REQUIREMENTS
 ------------
